@@ -1,2 +1,6 @@
 # crypto-landing-page
-crypto landing page 
+Crpto Landing page built with css3 and html5, Feel free to add your ideas and make changes.
+
+#Connect With Me
+Twitter: https://twitter.com/kondwani_hm
+Facebook: https://www.facebook.com/kondyhm
