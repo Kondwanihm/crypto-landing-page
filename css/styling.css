@@ -1,4 +1,4 @@
-*{
+body{
     margin:0;
     padding: 0;
     font-family:sans-serif;
@@ -28,7 +28,11 @@
     color: #b2b1b2;
 }
 
-/* add logo*/
+.logo img{
+    width:30px;
+    margin-top: -7px;
+    margin-right: 48px;
+}
 
 .active {
     color: #19dafa !important;
