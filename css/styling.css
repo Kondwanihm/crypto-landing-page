@@ -161,6 +161,14 @@ small{
     text-align: center;
 }
 
+.social-icons ul li a{
+    color: #999;
+    border-radius: 50%;
+    border: 1px solid #999;
+    padding: 5px;
+    display: block;
+}
+
 body{
     margin:0;
     padding: 0;
