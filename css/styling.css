@@ -185,3 +185,7 @@ a:hover {
     color: #19dafa;
     transition: all 0.5s ease-out;
 }
+
+.btc-ico {
+    font-size: 30px;
+}
